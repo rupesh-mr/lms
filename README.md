@@ -14,7 +14,6 @@ Technologies integrated to make the website up and running:-<br/>
 •HTML5 (Hypertext Markup Language)<br/>
 •CSS3 (Cascading Style Sheets)<br/>
 •Javascript ES6<br/>
-•React.js<br/>
 <br/>
 **Backend**<br/>
 •Node.js<br/>
