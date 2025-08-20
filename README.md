@@ -24,7 +24,7 @@ Technologies integrated to make the website up and running:-<br/>
 ## Instructions
 ### 1.	Clone the Repository:
 ```bash
-git clone https://github.com/NidhishDoshi/The-DOMinators.git
+git clone https://github.com/rupesh-mr/lms
 ```
 ### 2. Install requirements
 Ensure that your device has **npm** and **node** installed.
