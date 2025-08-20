@@ -39,7 +39,7 @@ node index.js
 This will start the server and the website will work on your localhost.<br/>
 To view the website, go to:
 ```
-https://localhost:3000
+http://localhost:3000
 
 ```
 ### Important Notice Regarding Usage of Free Hosting Services
